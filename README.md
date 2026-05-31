@@ -27,14 +27,14 @@ Weak passwords are one of the most common causes of account compromise. This too
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/password-analyzer.git
-cd password-analyzer
+git clone https://github.com/Yogendra9982/password_strength_analyzer.git
+cd password_strength_analyzer
 ```
 
 Make the script executable:
 
 ```bash
-chmod +x password-analyzer.sh
+chmod +x password_strength_analyzer.sh
 ```
 
 Run the script:
